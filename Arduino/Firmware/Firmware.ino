@@ -9,7 +9,7 @@
 // ======================= END OF INCLUDE BLOCK // =============================
 
 // =======================Pin Definitions - ONLY MODIFY PIN NUMBERS // =========
-
+#define POTENTIOMETERSLIDE_PIN_WIPER	A3
 
 // =======================Pin Definitions // ===================================
 
